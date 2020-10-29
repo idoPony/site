@@ -1,0 +1,30 @@
+﻿body {
+    direction: rtl;
+    font-family: Arial;
+    font-size: 16px;
+}
+div #headline {
+    color: white;
+    font-size: 26px;
+    background-image: url('../imag/blur-close-up-device-442576.jpg');
+    height: 480px;
+    background-size: cover;
+    text-align:center;
+    font-family:Arial;
+    padding:120px;
+}
+
+
+button {
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
